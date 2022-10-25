@@ -1,6 +1,6 @@
 
 rm(list = ls())
-#mydrive="D:/WUR/MagnetGridModel/MagnetGridR"
+#mydrive="D:/WUR/MagnetGridModel/MagnetGridR" 
 
 #@WH Walter:
 MagnetGridPath <<-"C:/MagnetGridModel/"  
